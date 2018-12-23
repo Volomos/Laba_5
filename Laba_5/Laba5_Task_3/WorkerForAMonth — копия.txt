@@ -1,0 +1,35 @@
+Worker
+ID: 1
+Surname: Minenko
+Name: Mykyta
+Salary: 1001.2
+Worker
+ID: 2
+Surname: Kubriychuk
+Name: Evgenii
+Salary: 550
+Worker
+ID: 3
+Surname: Yakeketz
+Name: Dmitur
+Salary: 2299.99
+Worker
+ID: 4
+Surname: Bondokek
+Name: Kek
+Salary: 251
+Worker
+ID: 5
+Surname: Yakubovich
+Name: Alexey
+Salary: 550
+Worker
+ID: 6
+Surname: Zanner
+Name: Sergey
+Salary: 2500.01
+Worker
+ID: 7
+Surname: Bezdarev
+Name: Anton
+Salary: 0

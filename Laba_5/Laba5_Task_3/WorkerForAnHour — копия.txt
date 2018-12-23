@@ -1,0 +1,30 @@
+Worker
+ID: 1
+Surname: MinenkoHour
+Name: Mykyta
+Salary: 5
+Worker
+ID: 2
+Surname: KubriychukHour
+Name: Evgenii
+Salary: 4
+Worker
+ID: 3
+Surname: YakeketzHour
+Name: Dmitur
+Salary: 5.4
+Worker
+ID: 4
+Surname: BondokekHour
+Name: Kek
+Salary: 5
+Worker
+ID: 5
+Surname: YakubovichHour
+Name: Alexey
+Salary: 2
+Worker
+ID: 6
+Surname: ZannerHour
+Name: Sergey
+Salary: 15
