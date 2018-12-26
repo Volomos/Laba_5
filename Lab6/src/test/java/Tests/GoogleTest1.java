@@ -78,7 +78,6 @@ public class GoogleTest1 {
         if (found != 0){
             File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
             try {
-                long start=System.currentTimeMillis();
                 String targetUrl = driver.getCurrentUrl();
                 String targetImg= "GoogleTest1_page" + Integer.toString(pageNumber) + ".png";
                 String command = "D:\\кпишка\\тестировка\\Lab6\\phantomjs-2.1.1-windows\\phantomjs-2.1.1-windows\\bin\\phantomjs D:\\кпишка\\тестировка\\Lab6\\phantomjs-2.1.1-windows\\phantomjs-2.1.1-windows\\examples\\rasterize.js "+targetUrl + " " +targetImg;
