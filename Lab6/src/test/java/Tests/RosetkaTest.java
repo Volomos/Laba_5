@@ -64,7 +64,7 @@ public class RosetkaTest {
             numb+=1;
             if (Integer.valueOf(price.getText().replaceAll("[^0-9]", "")) < 500)
             {
-                System.out.println("Test failed");
+                System.out.println("Program hasn't sorted elements correctly");
                 break;
             }
         }
